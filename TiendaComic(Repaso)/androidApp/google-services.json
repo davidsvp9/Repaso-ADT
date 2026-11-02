@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104550885527",
+    "project_id": "tiendacomics-78285",
+    "storage_bucket": "tiendacomics-78285.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104550885527:android:942d31b7a22420518761d2",
+        "android_client_info": {
+          "package_name": "com.example.ad1_ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbZgfXWAj5PnRORUWGej5DkLJZxn9cOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
